@@ -17,6 +17,11 @@
       </div>
     </nav>
 
+    <!-- button -->
+    <div class="container-fluid mt-3 text-end">        
+      <div class="col-sm-9"> <a href="" class="btn btn-primary">Add Student</a> </div>
+    </div>
+    
     <!-- form controls -->
      <div class="container ">
         <div class="row justify-content-center">
@@ -50,12 +55,7 @@
             </div>
         </div>
     </div>
-
-    <!-- button -->
-    <div class="container-fluid mt-3 text-end">        
-      <div class="col-sm-9"> <a href="" class="btn btn-primary">Add Student</a> </div>
-    </div>
-
+    
     <!-- table -->
     <div class="container-fluid mt-3">
         <div class="row justify-content-center">
