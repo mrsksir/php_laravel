@@ -26,7 +26,7 @@
                         <!-- name -->
                         <div class="group-control">
                            <label>Name:</label>
-                           <input type="text" name="name" class="form-control">
+                           <input type="text" name="name" class="form-control"/>
                         </div>
 
                         <!-- address -->
@@ -38,7 +38,7 @@
                         <!-- image -->
                         <div class="group-control">
                             <label>Image:</label> 
-                            <input type="file" name="image" id="" class="form-control">
+                            <input type="file" name="image" id="" class="form-control"/>
                         </div>
 
                         <!-- save button -->
@@ -76,7 +76,7 @@
                         <td>Deemo</td>
                         <td>Nepal</td>
                         <td>
-                            <img src="" alt="" class="rounded-circle" width="30px" height="30px">
+                            <img src="" alt="" class="rounded-circle" width="30px" height="30px"/>
                         </td>
                         <td>
                             <a href="" class="btn btn-sm btn-danger">Delete</a> |
